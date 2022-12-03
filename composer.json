@@ -1,0 +1,19 @@
+{
+    "name": "samykantari/mu-plugins-cli",
+    "description": "",
+    "type": "wp-cli-package",
+    "homepage": "https://github.com/samykantari/mu-plugins-cli",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kantari Samy",
+            "email": "samy@whodunit.fr"
+        }
+    ],
+  "autoload": {
+    "files": [ "mu-plugins-cli.php" ]
+  }
+}
